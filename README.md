@@ -1,2 +1,2 @@
 # Leetcode-Learning
-to record what I have learning inleetcode
+to record what I have learning in leetcode
