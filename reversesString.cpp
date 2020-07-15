@@ -24,12 +24,12 @@ public:
 		cout << "" << endl;
 	}
 	void printVector(vector<string> s){
-	for(auto i : s)
-	{
-		cout << i << " "; 
+		for(auto i : s)
+		{
+			cout << i << " "; 
+		}
+		cout << "" << endl;
 	}
-	cout << "" << endl;
-}
 };
 
 
